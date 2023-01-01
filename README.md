@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DERRIMAKO
+- 👋 Hi, I’m DERRICK MAKORI
+- I'm interested in QGIS mapping
 - 👀 I’m interested in  R language
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on statistical analysis with R
