@@ -1,8 +1,8 @@
 - 👋 Hi, I’m DERRICK MAKORI
-- I'm interested in QGIS mapping
-- 👀 I’m interested in  R language
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on statistical analysis with R
+- I'm interested in Geospatial Analysis
+- 👀 I’m interested in  Python language
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Spatial analysis with python
 - 📫 How to reach me ...
 
 <!---
