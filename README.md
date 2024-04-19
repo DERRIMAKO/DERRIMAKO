@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DERRICK MAKORI
 - I'm interested in Geospatial Analysis
 - 👀 I’m interested in  Python language
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python for Spatial Analysis
 - 💞️ I’m looking to collaborate on Spatial analysis with python
 - 📫 How to reach me ...
 
